@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bicky Muduli(SH4DOW)</h1>
+<h1 align="center">Hi 👋, I'm Bicky Muduli (aka SH4DOW)</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Web Developer | Learning AI | CSE Diploma Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=th3-sh4dow&label=Profile%20views&color=0e75b6&style=flat" alt="th3-sh4dow" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th3-sh4dow" alt="th3-sh4dow" /></a> </p>
 
 - 🔭 I’m currently working on **Jarvis AI**
 
@@ -27,4 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th3-sh4dow&show_icons=true&locale=en" alt="th3-sh4dow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3-sh4dow&" alt="th3-sh4dow" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=th3-sh4dow&label=Profile%20views&color=0e75b6&style=flat" alt="th3-sh4dow" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th3-sh4dow" alt="th3-sh4dow" /></a> </p>
+
 
