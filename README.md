@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Web Developer | Learning AI | CSE Diploma Student</h3>
 
 
-- 🔭 I’m currently working on **Jarvis AI**
+- 🔭 I’m currently working on **Interview Prep AI**
 
 - 🌱 I’m currently learning **ADV Python, SOC Analytics ,Mern Stack**
 
