@@ -459,7 +459,7 @@
         <text x="0" y="0" font-family="-apple-system,'SF Pro Display','Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#1A0E0E">Hi</text>
         <text x="42" y="0" font-family="-apple-system,'SF Pro Display','Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" font-weight="700">&#128075;</text>
         <text x="88" y="0" font-family="-apple-system,'SF Pro Display','Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#1A0E0E">I&#8217;m</text>
-        <text x="140" y="0" font-family="-apple-system,'SF Pro Display','Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="url(#accentGrad)">Your Name</text>
+        <text x="140" y="0" font-family="-apple-system,'SF Pro Display','Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="url(#accentGrad)">Bicky Muduli</text>
       </g>
 
       <g transform="translate(504,164)">
@@ -522,7 +522,7 @@
         </clipPath>
         <g clip-path="url(#roleClip4)">
           <text x="6" y="0" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" font-weight="600"
-                fill="url(#accentGrad)">AI Enthusiast</text>
+                fill="url(#accentGrad)">CyberSecurity Enthusiast</text>
         </g>
       </g>
       <rect x="6" y="-16" width="2.4" height="24" fill="#991B1B">
@@ -559,14 +559,14 @@
         <animateTransform attributeName="transform" type="translate" from="-14,96" to="0,96" begin="3.66s" dur="0.5s" fill="freeze" additive="replace"/>
         <circle cx="6" cy="-4" r="3.2" fill="url(#accentGrad)"/>
         <text x="18" y="0" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#8A6F6A">Portfolio</text>
-        <text x="150" y="0" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" font-weight="600" fill="#1A0E0E">yourwebsite.dev</text>
+        <text x="150" y="0" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" font-weight="600" fill="#1A0E0E">bickymuduli.indevs.in</text>
       </g>
       <g opacity="0" transform="translate(-14,128)">
         <animate attributeName="opacity" from="0" to="1" begin="3.88s" dur="0.5s" fill="freeze"/>
         <animateTransform attributeName="transform" type="translate" from="-14,128" to="0,128" begin="3.88s" dur="0.5s" fill="freeze" additive="replace"/>
         <circle cx="6" cy="-4" r="3.2" fill="url(#accentGrad)"/>
         <text x="18" y="0" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#8A6F6A">Email</text>
-        <text x="150" y="0" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" font-weight="600" fill="#1A0E0E">you@example.com</text>
+        <text x="150" y="0" font-family="'JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" font-weight="600" fill="#1A0E0E">bickymuduli289@gmail.com</text>
       </g>
       </g>
 
