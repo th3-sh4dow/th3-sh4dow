@@ -46,7 +46,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=th3-sh4dow&label=Profile%20Views&color=00FF41&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=th3-sh4dow&label=Profile%20Views&color=DD4132&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bicky-muduli)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/th3_sh4dow01)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bickymuduli289@gmail.com)
@@ -104,7 +104,7 @@ contact: bickymuduli289@gmail.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=th3-sh4dow&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+<img src="https://nirzak-trophies.vercel.app/?username=th3-sh4dow&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 
 </div>
 
@@ -118,7 +118,7 @@ contact: bickymuduli289@gmail.com
 
 </div>
 
-> Note: the snake animation needs a GitHub Action set up in your repo to generate `github-contribution-grid-snake-dark.svg` — happy to walk you through adding that workflow if you want it live.
+<!-- > Note: the snake animation needs a GitHub Action set up in your repo to generate `github-contribution-grid-snake-dark.svg` — happy to walk you through adding that workflow if you want it live. -->
 
 ---
 
