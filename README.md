@@ -89,8 +89,8 @@ contact: bickymuduli289@gmail.com
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=th3-sh4dow&show_icons=true&locale=en&theme=radical&hide_border=true" alt="th3-sh4dow stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3-sh4dow&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=th3-sh4dow&show_icons=true&locale=en&theme=radical&hide_border=true" alt="th3-sh4dow stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=th3-sh4dow&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="top langs" />
 
 <br/>
 
@@ -127,10 +127,3 @@ contact: bickymuduli289@gmail.com
 **"Security is not a product, but a process."**
 
 </div>
-<div align="center">
-**"Security is not a product, but a process."**
- 
-</div>
- 
-
-
