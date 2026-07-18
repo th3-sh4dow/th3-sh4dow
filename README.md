@@ -5,6 +5,8 @@
 </picture> -->
 
 
+<!-- 
+
 <h1 align="center">Hi 👋, I'm Bicky Muduli (aka SH4DOW)</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Web Developer | Learning AI | CSE Diploma Student</h3>
 
@@ -36,4 +38,91 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th3-sh4dow" alt="th3-sh4dow" /></a> </p>
 
- 
+  -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bicky+Muduli;a.k.a+SH4DOW;Cybersecurity+Enthusiast;Ethical+Hacker;Web+Developer;Learning+AI+%2F+ML" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=th3-sh4dow&label=Profile%20Views&color=00FF41&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bicky-muduli)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/th3_sh4dow01)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bickymuduli289@gmail.com)
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+```yaml
+whoami: Bicky Muduli (SH4DOW)
+role: CSE Diploma Student
+focus: Cybersecurity | Ethical Hacking | Web Development
+current_project: Interview Prep AI
+learning: [Advanced Python, SOC Analytics, MERN Stack]
+ask_me_about: [Hacking, Web Penetration Testing, Web Development]
+contact: bickymuduli289@gmail.com
+```
+
+- 🔭 **Currently building:** Interview Prep AI
+- 🌱 **Currently learning:** Advanced Python, SOC Analytics, MERN Stack
+- 💬 **Ask me about:** Hacking, Web Penetration Testing, Web Development
+- ⚡ **Fun fact:** I break things to learn how to protect them
+- 📫 **Reach me:** bickymuduli289@gmail.com
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=bash,c,cpp,css,gcp,git,html,js,linux,mysql,php,python,react,sqlite&theme=dark" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=th3-sh4dow&show_icons=true&locale=en&theme=radical&hide_border=true" alt="th3-sh4dow stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3-sh4dow&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=th3-sh4dow&theme=radical&hide_border=true" alt="streak stats" />
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=th3-sh4dow&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/th3-sh4dow/th3-sh4dow/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+> Note: the snake animation needs a GitHub Action set up in your repo to generate `github-contribution-grid-snake-dark.svg` — happy to walk you through adding that workflow if you want it live.
+
+---
+
+<div align="center">
+
+**"Security is not a product, but a process."**
+
+</div>
