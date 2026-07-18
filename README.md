@@ -1,11 +1,11 @@
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark (1).svg">
   <source media="(prefers-color-scheme: light)" srcset="./light (1).svg">
   <img src="./dark (1).svg" alt="hero banner">
-</picture>
+</picture> -->
 
 
-<!-- <h1 align="center">Hi 👋, I'm Bicky Muduli (aka SH4DOW)</h1>
+<h1 align="center">Hi 👋, I'm Bicky Muduli (aka SH4DOW)</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Web Developer | Learning AI | CSE Diploma Student</h3>
 
 
@@ -36,4 +36,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th3-sh4dow" alt="th3-sh4dow" /></a> </p>
 
- -->
+ 
