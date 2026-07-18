@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bicky+Muduli;a.k.a+SH4DOW;Cybersecurity+Enthusiast;Ethical+Hacker;Web+Developer;Learning+AI+%2F+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=D9001B&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bicky+Muduli;a.k.a+SH4DOW;Cybersecurity+Enthusiast;Ethical+Hacker;Web+Developer;Learning+AI+%2F+ML" alt="Typing SVG" />
 
 <br/>
 
