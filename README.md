@@ -40,9 +40,18 @@
 
   -->
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=D9001B&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bicky+Muduli;a.k.a+SH4DOW;Cybersecurity+Enthusiast;Ethical+Hacker;Web+Developer;Learning+AI+%2F+ML" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&color=D9001B&center=true&vCenter=true&width=850&lines=Bicky+Muduli+%7C+SH4DOW" alt="Bicky Muduli | SH4DOW"/>
+</p>
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Web+Developer;Ethical+Hacker+%7C+CTF+Player;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning" alt="Roles"/>
+</p> -->
+
+<p align="center">
+  <sub>⚡ Build. Break. Learn. Repeat.</sub>
+</p>
 
 <br/>
 
