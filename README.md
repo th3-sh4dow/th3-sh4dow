@@ -76,9 +76,9 @@ ask_me_about: [Hacking, Web Penetration Testing, Web Development]
 contact: bickymuduli289@gmail.com
 ```
 
-- 🔭 **Currently building:** Interview Prep AI
+- 🔭 **Currently building:** E-Commerce Site
 - 🌱 **Currently learning:** Advanced Python, SOC Analytics, MERN Stack
-- 💬 **Ask me about:** Hacking, Web Penetration Testing, Web Development
+- 💬 **Ask me about:** Hacking, Web Penetration Testing, Web & Software
 - ⚡ **Fun fact:** I break things to learn how to protect them
 - 📫 **Reach me:** bickymuduli289@gmail.com
 
